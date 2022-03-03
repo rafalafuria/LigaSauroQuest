@@ -26,6 +26,8 @@ Developed in 6 days.
 The project still needs fine tuning and a better respawn and
 checkpoint as well as new stages.
 The build performed is for Android.
+
+
 ![menu](https://user-images.githubusercontent.com/57465338/156552810-6b3b0af2-83fd-4933-a76b-4763ea3d68cc.jpg)
 ![game](https://user-images.githubusercontent.com/57465338/156553132-352385a0-1a90-4593-9c4a-8de733b5d439.jpg)
 ![LigaSauroQuest1](https://user-images.githubusercontent.com/57465338/156552949-6b781ff8-1a58-4faf-9201-4b632d112a0d.jpg)
