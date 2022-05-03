@@ -23,7 +23,7 @@ The Game has a scoring system, main menu, SFX, victory screen, game over,
 copyrighted background music made in Ritmik Studio.
 Developed in 6 days.
 
-The project still needs fine tuning and a better respawn and
+The project still needs fixes and a better respawn and
 checkpoint as well as new stages.
 The build performed is for Android.
 
