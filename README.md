@@ -1,4 +1,4 @@
-# LigaSauroQuest
+# Sauro Quest
 2D Platform mobile game
 
 The game has simple movement mechanics with the touch joystick, the
